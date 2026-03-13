@@ -1,0 +1,827 @@
+
+AI SOC ANALYST MODULE
+
+AI INCIDENT ANALYSIS
+--------------------
+User: admin1
+Source IP: 45.22.11.90
+
+Signals detected:
+- known malicious IP
+- privileged account access
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: user2
+Source IP: 45.22.11.90
+
+Signals detected:
+- known malicious IP
+- failed login attempt
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: user3
+Source IP: 103.21.244.5
+
+Signals detected:
+- foreign login location
+- known malicious IP
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: admin1
+Source IP: 192.168.1.10
+
+Signals detected:
+- foreign login location
+- privileged account access
+
+AI Assessment:
+Suspicious authentication behaviour detected.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: user1
+Source IP: 192.168.1.10
+
+Signals detected:
+- foreign login location
+- failed login attempt
+
+AI Assessment:
+Suspicious authentication behaviour detected.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: user1
+Source IP: 103.21.244.5
+
+Signals detected:
+- foreign login location
+- known malicious IP
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: user1
+Source IP: 45.22.11.90
+
+Signals detected:
+- foreign login location
+- known malicious IP
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: user1
+Source IP: 103.21.244.5
+
+Signals detected:
+- foreign login location
+- known malicious IP
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: admin1
+Source IP: 103.21.244.5
+
+Signals detected:
+- foreign login location
+- known malicious IP
+- failed login attempt
+- privileged account access
+
+AI Assessment:
+Possible brute-force attempt against a privileged account.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: user3
+Source IP: 103.21.244.5
+
+Signals detected:
+- foreign login location
+- known malicious IP
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: user3
+Source IP: 103.21.244.5
+
+Signals detected:
+- foreign login location
+- known malicious IP
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: user1
+Source IP: 103.21.244.5
+
+Signals detected:
+- known malicious IP
+- failed login attempt
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: admin1
+Source IP: 103.21.244.5
+
+Signals detected:
+- known malicious IP
+- privileged account access
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: user3
+Source IP: 103.21.244.5
+
+Signals detected:
+- known malicious IP
+- failed login attempt
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: user2
+Source IP: 103.21.244.5
+
+Signals detected:
+- known malicious IP
+- failed login attempt
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: user1
+Source IP: 45.22.11.90
+
+Signals detected:
+- known malicious IP
+- failed login attempt
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: user2
+Source IP: 103.21.244.5
+
+Signals detected:
+- foreign login location
+- known malicious IP
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: admin1
+Source IP: 103.21.244.5
+
+Signals detected:
+- known malicious IP
+- privileged account access
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: user2
+Source IP: 103.21.244.5
+
+Signals detected:
+- foreign login location
+- known malicious IP
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: user3
+Source IP: 45.22.11.90
+
+Signals detected:
+- foreign login location
+- known malicious IP
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: user1
+Source IP: 192.168.1.20
+
+Signals detected:
+- foreign login location
+- failed login attempt
+
+AI Assessment:
+Suspicious authentication behaviour detected.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: user3
+Source IP: 103.21.244.5
+
+Signals detected:
+- foreign login location
+- known malicious IP
+- failed login attempt
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: user1
+Source IP: 45.22.11.90
+
+Signals detected:
+- foreign login location
+- known malicious IP
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: admin1
+Source IP: 192.168.1.30
+
+Signals detected:
+- foreign login location
+- privileged account access
+
+AI Assessment:
+Suspicious authentication behaviour detected.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: admin1
+Source IP: 45.22.11.90
+
+Signals detected:
+- known malicious IP
+- privileged account access
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: user3
+Source IP: 103.21.244.5
+
+Signals detected:
+- foreign login location
+- known malicious IP
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: admin1
+Source IP: 192.168.1.30
+
+Signals detected:
+- foreign login location
+- privileged account access
+
+AI Assessment:
+Suspicious authentication behaviour detected.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: user3
+Source IP: 103.21.244.5
+
+Signals detected:
+- foreign login location
+- known malicious IP
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: user1
+Source IP: 103.21.244.5
+
+Signals detected:
+- foreign login location
+- known malicious IP
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: user1
+Source IP: 103.21.244.5
+
+Signals detected:
+- foreign login location
+- known malicious IP
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: user2
+Source IP: 103.21.244.5
+
+Signals detected:
+- foreign login location
+- known malicious IP
+- failed login attempt
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: user2
+Source IP: 103.21.244.5
+
+Signals detected:
+- foreign login location
+- known malicious IP
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: admin1
+Source IP: 45.22.11.90
+
+Signals detected:
+- known malicious IP
+- privileged account access
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: user1
+Source IP: 45.22.11.90
+
+Signals detected:
+- foreign login location
+- known malicious IP
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: user1
+Source IP: 45.22.11.90
+
+Signals detected:
+- foreign login location
+- known malicious IP
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: user1
+Source IP: 45.22.11.90
+
+Signals detected:
+- foreign login location
+- known malicious IP
+- failed login attempt
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: admin1
+Source IP: 192.168.1.10
+
+Signals detected:
+- foreign login location
+- privileged account access
+
+AI Assessment:
+Suspicious authentication behaviour detected.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: admin1
+Source IP: 103.21.244.5
+
+Signals detected:
+- known malicious IP
+- privileged account access
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: admin1
+Source IP: 45.22.11.90
+
+Signals detected:
+- known malicious IP
+- privileged account access
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: admin1
+Source IP: 45.22.11.90
+
+Signals detected:
+- known malicious IP
+- privileged account access
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: admin1
+Source IP: 45.22.11.90
+
+Signals detected:
+- known malicious IP
+- privileged account access
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: user2
+Source IP: 103.21.244.5
+
+Signals detected:
+- foreign login location
+- known malicious IP
+- failed login attempt
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+
+AI INCIDENT ANALYSIS
+--------------------
+User: user3
+Source IP: 103.21.244.5
+
+Signals detected:
+- foreign login location
+- known malicious IP
+- failed login attempt
+
+AI Assessment:
+Connection from a known malicious IP address.
+
+Recommended Response:
+- Investigate login activity
+- Block suspicious IP if confirmed malicious
+- Enforce MFA or password reset
+
+--------------------------------
+

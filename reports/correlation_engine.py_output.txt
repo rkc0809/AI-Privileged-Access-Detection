@@ -1,0 +1,304 @@
+
+SOC CORRELATION ENGINE
+
+CORRELATED INCIDENT
+User: admin1
+Source IP: 45.22.11.90
+Signals: ['Known malicious IP', 'Privileged account access']
+Risk Score: 60
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: user2
+Source IP: 45.22.11.90
+Signals: ['Known malicious IP', 'Failed login attempt']
+Risk Score: 60
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: user3
+Source IP: 103.21.244.5
+Signals: ['Foreign login', 'Known malicious IP']
+Risk Score: 70
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: admin1
+Source IP: 192.168.1.10
+Signals: ['Foreign login', 'Privileged account access']
+Risk Score: 50
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: user1
+Source IP: 192.168.1.10
+Signals: ['Foreign login', 'Failed login attempt']
+Risk Score: 50
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: user1
+Source IP: 103.21.244.5
+Signals: ['Foreign login', 'Known malicious IP']
+Risk Score: 70
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: user1
+Source IP: 45.22.11.90
+Signals: ['Foreign login', 'Known malicious IP']
+Risk Score: 70
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: user1
+Source IP: 103.21.244.5
+Signals: ['Foreign login', 'Known malicious IP']
+Risk Score: 70
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: admin1
+Source IP: 103.21.244.5
+Signals: ['Foreign login', 'Known malicious IP', 'Failed login attempt', 'Privileged account access']
+Risk Score: 110
+Severity: CRITICAL
+---------------------------
+CORRELATED INCIDENT
+User: user3
+Source IP: 103.21.244.5
+Signals: ['Foreign login', 'Known malicious IP']
+Risk Score: 70
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: user3
+Source IP: 103.21.244.5
+Signals: ['Foreign login', 'Known malicious IP']
+Risk Score: 70
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: user1
+Source IP: 103.21.244.5
+Signals: ['Known malicious IP', 'Failed login attempt']
+Risk Score: 60
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: admin1
+Source IP: 103.21.244.5
+Signals: ['Known malicious IP', 'Privileged account access']
+Risk Score: 60
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: user3
+Source IP: 103.21.244.5
+Signals: ['Known malicious IP', 'Failed login attempt']
+Risk Score: 60
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: user2
+Source IP: 103.21.244.5
+Signals: ['Known malicious IP', 'Failed login attempt']
+Risk Score: 60
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: user1
+Source IP: 45.22.11.90
+Signals: ['Known malicious IP', 'Failed login attempt']
+Risk Score: 60
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: user2
+Source IP: 103.21.244.5
+Signals: ['Foreign login', 'Known malicious IP']
+Risk Score: 70
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: admin1
+Source IP: 103.21.244.5
+Signals: ['Known malicious IP', 'Privileged account access']
+Risk Score: 60
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: user2
+Source IP: 103.21.244.5
+Signals: ['Foreign login', 'Known malicious IP']
+Risk Score: 70
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: user3
+Source IP: 45.22.11.90
+Signals: ['Foreign login', 'Known malicious IP']
+Risk Score: 70
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: user1
+Source IP: 192.168.1.20
+Signals: ['Foreign login', 'Failed login attempt']
+Risk Score: 50
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: user3
+Source IP: 103.21.244.5
+Signals: ['Foreign login', 'Known malicious IP', 'Failed login attempt']
+Risk Score: 90
+Severity: CRITICAL
+---------------------------
+CORRELATED INCIDENT
+User: user1
+Source IP: 45.22.11.90
+Signals: ['Foreign login', 'Known malicious IP']
+Risk Score: 70
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: admin1
+Source IP: 192.168.1.30
+Signals: ['Foreign login', 'Privileged account access']
+Risk Score: 50
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: admin1
+Source IP: 45.22.11.90
+Signals: ['Known malicious IP', 'Privileged account access']
+Risk Score: 60
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: user3
+Source IP: 103.21.244.5
+Signals: ['Foreign login', 'Known malicious IP']
+Risk Score: 70
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: admin1
+Source IP: 192.168.1.30
+Signals: ['Foreign login', 'Privileged account access']
+Risk Score: 50
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: user3
+Source IP: 103.21.244.5
+Signals: ['Foreign login', 'Known malicious IP']
+Risk Score: 70
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: user1
+Source IP: 103.21.244.5
+Signals: ['Foreign login', 'Known malicious IP']
+Risk Score: 70
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: user1
+Source IP: 103.21.244.5
+Signals: ['Foreign login', 'Known malicious IP']
+Risk Score: 70
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: user2
+Source IP: 103.21.244.5
+Signals: ['Foreign login', 'Known malicious IP', 'Failed login attempt']
+Risk Score: 90
+Severity: CRITICAL
+---------------------------
+CORRELATED INCIDENT
+User: user2
+Source IP: 103.21.244.5
+Signals: ['Foreign login', 'Known malicious IP']
+Risk Score: 70
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: admin1
+Source IP: 45.22.11.90
+Signals: ['Known malicious IP', 'Privileged account access']
+Risk Score: 60
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: user1
+Source IP: 45.22.11.90
+Signals: ['Foreign login', 'Known malicious IP']
+Risk Score: 70
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: user1
+Source IP: 45.22.11.90
+Signals: ['Foreign login', 'Known malicious IP']
+Risk Score: 70
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: user1
+Source IP: 45.22.11.90
+Signals: ['Foreign login', 'Known malicious IP', 'Failed login attempt']
+Risk Score: 90
+Severity: CRITICAL
+---------------------------
+CORRELATED INCIDENT
+User: admin1
+Source IP: 192.168.1.10
+Signals: ['Foreign login', 'Privileged account access']
+Risk Score: 50
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: admin1
+Source IP: 103.21.244.5
+Signals: ['Known malicious IP', 'Privileged account access']
+Risk Score: 60
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: admin1
+Source IP: 45.22.11.90
+Signals: ['Known malicious IP', 'Privileged account access']
+Risk Score: 60
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: admin1
+Source IP: 45.22.11.90
+Signals: ['Known malicious IP', 'Privileged account access']
+Risk Score: 60
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: admin1
+Source IP: 45.22.11.90
+Signals: ['Known malicious IP', 'Privileged account access']
+Risk Score: 60
+Severity: HIGH
+---------------------------
+CORRELATED INCIDENT
+User: user2
+Source IP: 103.21.244.5
+Signals: ['Foreign login', 'Known malicious IP', 'Failed login attempt']
+Risk Score: 90
+Severity: CRITICAL
+---------------------------
+CORRELATED INCIDENT
+User: user3
+Source IP: 103.21.244.5
+Signals: ['Foreign login', 'Known malicious IP', 'Failed login attempt']
+Risk Score: 90
+Severity: CRITICAL
+---------------------------

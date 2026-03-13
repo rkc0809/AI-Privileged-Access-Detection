@@ -1,0 +1,306 @@
+
+SOC Risk Scoring Engine
+
+ALERT: High Risk Login
+User: admin1
+IP: 45.22.11.90
+Country: India
+Risk Score: 60
+Threat Level: MEDIUM
+----------------------
+ALERT: High Risk Login
+User: user2
+IP: 45.22.11.90
+Country: India
+Risk Score: 70
+Threat Level: MEDIUM
+----------------------
+ALERT: High Risk Login
+User: user3
+IP: 103.21.244.5
+Country: China
+Risk Score: 80
+Threat Level: HIGH
+----------------------
+ALERT: High Risk Login
+User: admin1
+IP: 192.168.1.10
+Country: China
+Risk Score: 60
+Threat Level: MEDIUM
+----------------------
+ALERT: High Risk Login
+User: user1
+IP: 192.168.1.10
+Country: Russia
+Risk Score: 70
+Threat Level: MEDIUM
+----------------------
+ALERT: High Risk Login
+User: user1
+IP: 103.21.244.5
+Country: Russia
+Risk Score: 80
+Threat Level: HIGH
+----------------------
+ALERT: High Risk Login
+User: user1
+IP: 45.22.11.90
+Country: Russia
+Risk Score: 80
+Threat Level: HIGH
+----------------------
+ALERT: High Risk Login
+User: user1
+IP: 103.21.244.5
+Country: Russia
+Risk Score: 80
+Threat Level: HIGH
+----------------------
+ALERT: High Risk Login
+User: admin1
+IP: 103.21.244.5
+Country: China
+Risk Score: 130
+Threat Level: HIGH
+----------------------
+ALERT: High Risk Login
+User: user3
+IP: 103.21.244.5
+Country: Russia
+Risk Score: 80
+Threat Level: HIGH
+----------------------
+ALERT: High Risk Login
+User: user3
+IP: 103.21.244.5
+Country: China
+Risk Score: 80
+Threat Level: HIGH
+----------------------
+ALERT: High Risk Login
+User: user1
+IP: 103.21.244.5
+Country: India
+Risk Score: 70
+Threat Level: MEDIUM
+----------------------
+ALERT: High Risk Login
+User: admin1
+IP: 103.21.244.5
+Country: India
+Risk Score: 60
+Threat Level: MEDIUM
+----------------------
+ALERT: High Risk Login
+User: user3
+IP: 103.21.244.5
+Country: India
+Risk Score: 70
+Threat Level: MEDIUM
+----------------------
+ALERT: High Risk Login
+User: user2
+IP: 103.21.244.5
+Country: India
+Risk Score: 70
+Threat Level: MEDIUM
+----------------------
+ALERT: High Risk Login
+User: user1
+IP: 45.22.11.90
+Country: India
+Risk Score: 70
+Threat Level: MEDIUM
+----------------------
+ALERT: High Risk Login
+User: user2
+IP: 103.21.244.5
+Country: Russia
+Risk Score: 80
+Threat Level: HIGH
+----------------------
+ALERT: High Risk Login
+User: admin1
+IP: 103.21.244.5
+Country: India
+Risk Score: 60
+Threat Level: MEDIUM
+----------------------
+ALERT: High Risk Login
+User: user2
+IP: 103.21.244.5
+Country: Russia
+Risk Score: 80
+Threat Level: HIGH
+----------------------
+ALERT: High Risk Login
+User: user3
+IP: 45.22.11.90
+Country: China
+Risk Score: 80
+Threat Level: HIGH
+----------------------
+ALERT: High Risk Login
+User: user1
+IP: 192.168.1.20
+Country: China
+Risk Score: 70
+Threat Level: MEDIUM
+----------------------
+ALERT: High Risk Login
+User: user3
+IP: 103.21.244.5
+Country: China
+Risk Score: 110
+Threat Level: HIGH
+----------------------
+ALERT: High Risk Login
+User: user1
+IP: 45.22.11.90
+Country: Russia
+Risk Score: 80
+Threat Level: HIGH
+----------------------
+ALERT: High Risk Login
+User: admin1
+IP: 192.168.1.30
+Country: Russia
+Risk Score: 60
+Threat Level: MEDIUM
+----------------------
+ALERT: High Risk Login
+User: admin1
+IP: 45.22.11.90
+Country: India
+Risk Score: 60
+Threat Level: MEDIUM
+----------------------
+ALERT: High Risk Login
+User: user3
+IP: 103.21.244.5
+Country: China
+Risk Score: 80
+Threat Level: HIGH
+----------------------
+ALERT: High Risk Login
+User: admin1
+IP: 192.168.1.30
+Country: Russia
+Risk Score: 60
+Threat Level: MEDIUM
+----------------------
+ALERT: High Risk Login
+User: user3
+IP: 103.21.244.5
+Country: Russia
+Risk Score: 80
+Threat Level: HIGH
+----------------------
+ALERT: High Risk Login
+User: user1
+IP: 103.21.244.5
+Country: China
+Risk Score: 80
+Threat Level: HIGH
+----------------------
+ALERT: High Risk Login
+User: user1
+IP: 103.21.244.5
+Country: China
+Risk Score: 80
+Threat Level: HIGH
+----------------------
+ALERT: High Risk Login
+User: user2
+IP: 103.21.244.5
+Country: Russia
+Risk Score: 110
+Threat Level: HIGH
+----------------------
+ALERT: High Risk Login
+User: user2
+IP: 103.21.244.5
+Country: Russia
+Risk Score: 80
+Threat Level: HIGH
+----------------------
+ALERT: High Risk Login
+User: admin1
+IP: 45.22.11.90
+Country: India
+Risk Score: 60
+Threat Level: MEDIUM
+----------------------
+ALERT: High Risk Login
+User: user1
+IP: 45.22.11.90
+Country: China
+Risk Score: 80
+Threat Level: HIGH
+----------------------
+ALERT: High Risk Login
+User: user1
+IP: 45.22.11.90
+Country: China
+Risk Score: 80
+Threat Level: HIGH
+----------------------
+ALERT: High Risk Login
+User: user1
+IP: 45.22.11.90
+Country: Russia
+Risk Score: 110
+Threat Level: HIGH
+----------------------
+ALERT: High Risk Login
+User: admin1
+IP: 192.168.1.10
+Country: Russia
+Risk Score: 60
+Threat Level: MEDIUM
+----------------------
+ALERT: High Risk Login
+User: admin1
+IP: 103.21.244.5
+Country: India
+Risk Score: 60
+Threat Level: MEDIUM
+----------------------
+ALERT: High Risk Login
+User: admin1
+IP: 45.22.11.90
+Country: India
+Risk Score: 60
+Threat Level: MEDIUM
+----------------------
+ALERT: High Risk Login
+User: admin1
+IP: 45.22.11.90
+Country: India
+Risk Score: 60
+Threat Level: MEDIUM
+----------------------
+ALERT: High Risk Login
+User: admin1
+IP: 45.22.11.90
+Country: India
+Risk Score: 60
+Threat Level: MEDIUM
+----------------------
+ALERT: High Risk Login
+User: user2
+IP: 103.21.244.5
+Country: Russia
+Risk Score: 110
+Threat Level: HIGH
+----------------------
+ALERT: High Risk Login
+User: user3
+IP: 103.21.244.5
+Country: China
+Risk Score: 110
+Threat Level: HIGH
+----------------------
+
+Total High Risk Events: 43

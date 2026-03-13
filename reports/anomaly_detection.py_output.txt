@@ -1,0 +1,17 @@
+
+Detection Results:
+
+    timestamp    user country   role  anomaly
+0       20:52   user2   India   user       -1
+1       20:57   user1  Russia   user       -1
+2       21:02   user1  Russia   user       -1
+3       21:07   user2   India   user        1
+4       21:12  admin1   India  admin       -1
+..        ...     ...     ...    ...      ...
+115     06:27   user3   China   user        1
+116     06:32   user1   China   user        1
+117     06:37   user1   India   user        1
+118     06:42   user1   India   user        1
+119     06:47   user2   India   user        1
+
+[120 rows x 5 columns]

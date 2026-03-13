@@ -1,0 +1,18 @@
+SOC INCIDENT REPORT
+====================
+
+Total Suspicious Logins: 41
+Brute Force Attacks: 3
+Credential Stuffing Attempts: 5
+Malicious IPs Detected: 2
+
+Malicious IPs
+--------------
+45.22.11.90
+103.21.244.5
+
+Recommended Actions
+-------------------
+• Investigate compromised accounts
+• Block malicious IPs
+• Enable MFA for privileged users

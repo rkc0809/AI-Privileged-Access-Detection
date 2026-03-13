@@ -1,0 +1,218 @@
+
+SOC Alerts
+
+ALERT: Failed Login Attempt
+User: user2
+Time: 20:52
+IP: 192.168.1.30
+----------------------------
+ALERT: Failed Login Attempt
+User: user2
+Time: 21:07
+IP: 192.168.1.10
+----------------------------
+ALERT: Failed Login Attempt
+User: user2
+Time: 21:17
+IP: 45.22.11.90
+----------------------------
+ALERT: Failed Login Attempt
+User: user1
+Time: 21:47
+IP: 192.168.1.10
+----------------------------
+ALERT: Failed Login Attempt
+User: user1
+Time: 21:57
+IP: 192.168.1.10
+----------------------------
+ALERT: Failed Login Attempt
+User: user3
+Time: 22:02
+IP: 192.168.1.20
+----------------------------
+ALERT: Failed Login Attempt
+User: user2
+Time: 22:17
+IP: 192.168.1.30
+----------------------------
+ALERT: Failed Login Attempt
+User: user1
+Time: 22:27
+IP: 192.168.1.10
+----------------------------
+ALERT: Failed Login Attempt
+User: admin1
+Time: 22:57
+IP: 103.21.244.5
+----------------------------
+ALERT: Failed Login Attempt
+User: user1
+Time: 23:37
+IP: 103.21.244.5
+----------------------------
+ALERT: Failed Login Attempt
+User: user3
+Time: 23:52
+IP: 103.21.244.5
+----------------------------
+ALERT: Failed Login Attempt
+User: user2
+Time: 23:57
+IP: 103.21.244.5
+----------------------------
+ALERT: Failed Login Attempt
+User: user3
+Time: 00:02
+IP: 192.168.1.20
+----------------------------
+ALERT: Failed Login Attempt
+User: user1
+Time: 00:07
+IP: 45.22.11.90
+----------------------------
+ALERT: Suspicious Admin Login
+User: admin1
+Time: 00:22
+Country: India
+----------------------------
+ALERT: Suspicious Admin Login
+User: admin1
+Time: 00:27
+Country: India
+----------------------------
+ALERT: Suspicious Admin Login
+User: admin1
+Time: 00:32
+Country: India
+----------------------------
+ALERT: Suspicious Admin Login
+User: admin1
+Time: 00:47
+Country: India
+----------------------------
+ALERT: Failed Login Attempt
+User: user1
+Time: 01:02
+IP: 192.168.1.20
+----------------------------
+ALERT: Suspicious Admin Login
+User: admin1
+Time: 01:12
+Country: India
+----------------------------
+ALERT: Failed Login Attempt
+User: user3
+Time: 01:27
+IP: 103.21.244.5
+----------------------------
+ALERT: Suspicious Admin Login
+User: admin1
+Time: 01:32
+Country: India
+----------------------------
+ALERT: Suspicious Admin Login
+User: admin1
+Time: 01:47
+Country: India
+----------------------------
+ALERT: Suspicious Admin Login
+User: admin1
+Time: 01:57
+Country: Russia
+----------------------------
+ALERT: Failed Login Attempt
+User: user2
+Time: 02:02
+IP: 192.168.1.30
+----------------------------
+ALERT: Suspicious Admin Login
+User: admin1
+Time: 02:12
+Country: India
+----------------------------
+ALERT: Failed Login Attempt
+User: user3
+Time: 02:17
+IP: 192.168.1.30
+----------------------------
+ALERT: Failed Login Attempt
+User: user1
+Time: 02:32
+IP: 192.168.1.30
+----------------------------
+ALERT: Suspicious Admin Login
+User: admin1
+Time: 02:52
+Country: Russia
+----------------------------
+ALERT: Suspicious Admin Login
+User: admin1
+Time: 03:32
+Country: India
+----------------------------
+ALERT: Failed Login Attempt
+User: user2
+Time: 03:47
+IP: 103.21.244.5
+----------------------------
+ALERT: Failed Login Attempt
+User: user1
+Time: 04:07
+IP: 192.168.1.10
+----------------------------
+ALERT: Suspicious Admin Login
+User: admin1
+Time: 04:22
+Country: India
+----------------------------
+ALERT: Suspicious Admin Login
+User: admin1
+Time: 04:52
+Country: India
+----------------------------
+ALERT: Failed Login Attempt
+User: user2
+Time: 04:57
+IP: 192.168.1.30
+----------------------------
+ALERT: Suspicious Admin Login
+User: admin1
+Time: 05:07
+Country: India
+----------------------------
+ALERT: Failed Login Attempt
+User: user1
+Time: 05:17
+IP: 45.22.11.90
+----------------------------
+ALERT: Suspicious Admin Login
+User: admin1
+Time: 05:27
+Country: Russia
+----------------------------
+ALERT: Suspicious Admin Login
+User: admin1
+Time: 05:32
+Country: India
+----------------------------
+ALERT: Suspicious Admin Login
+User: admin1
+Time: 05:42
+Country: India
+----------------------------
+ALERT: Suspicious Admin Login
+User: admin1
+Time: 05:52
+Country: India
+----------------------------
+ALERT: Failed Login Attempt
+User: user2
+Time: 06:12
+IP: 103.21.244.5
+----------------------------
+ALERT: Failed Login Attempt
+User: user3
+Time: 06:27
+IP: 103.21.244.5
+----------------------------

@@ -1,0 +1,48 @@
+
+ATTACK CAMPAIGN DETECTOR
+
+ATTACK CAMPAIGN DETECTED
+------------------------
+Source IP: 192.168.1.30
+Users Targeted: 4
+Failed Attempts: 6
+Attack Type: Credential Stuffing
+Severity: MEDIUM
+------------------------
+
+ATTACK CAMPAIGN DETECTED
+------------------------
+Source IP: 192.168.1.10
+Users Targeted: 4
+Failed Attempts: 5
+Attack Type: Credential Stuffing
+Severity: MEDIUM
+------------------------
+
+ATTACK CAMPAIGN DETECTED
+------------------------
+Source IP: 45.22.11.90
+Users Targeted: 4
+Failed Attempts: 3
+Attack Type: Suspicious Activity
+Severity: CRITICAL
+------------------------
+
+ATTACK CAMPAIGN DETECTED
+------------------------
+Source IP: 192.168.1.20
+Users Targeted: 4
+Failed Attempts: 3
+Attack Type: Suspicious Activity
+Severity: MEDIUM
+------------------------
+
+ATTACK CAMPAIGN DETECTED
+------------------------
+Source IP: 103.21.244.5
+Users Targeted: 4
+Failed Attempts: 8
+Attack Type: Credential Stuffing
+Severity: CRITICAL
+------------------------
+

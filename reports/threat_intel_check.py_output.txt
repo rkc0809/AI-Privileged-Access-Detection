@@ -1,0 +1,10 @@
+
+Threat Intelligence Analysis
+
+IP: 45.22.11.90
+Abuse Score: 0
+--------------------
+API failed for IP: 103.21.244.5
+[ALERT] Malicious IP detected via LOCAL threat database
+IP: 103.21.244.5
+--------------------

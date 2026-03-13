@@ -1,0 +1,35 @@
+
+Attack Pattern Detection
+
+ALERT: Brute Force Attack Detected
+Target User: user2
+Failed Attempts: 9
+---------------------------
+ALERT: Brute Force Attack Detected
+Target User: user1
+Failed Attempts: 9
+---------------------------
+ALERT: Brute Force Attack Detected
+Target User: user3
+Failed Attempts: 6
+---------------------------
+ALERT: Credential Stuffing Detected
+Source IP: 192.168.1.30
+Users Targeted: 4
+---------------------------
+ALERT: Credential Stuffing Detected
+Source IP: 192.168.1.10
+Users Targeted: 4
+---------------------------
+ALERT: Credential Stuffing Detected
+Source IP: 45.22.11.90
+Users Targeted: 4
+---------------------------
+ALERT: Credential Stuffing Detected
+Source IP: 192.168.1.20
+Users Targeted: 4
+---------------------------
+ALERT: Credential Stuffing Detected
+Source IP: 103.21.244.5
+Users Targeted: 4
+---------------------------
